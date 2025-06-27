@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Ilham Rohmatulloh](img/benner-2.png.png)
+![Ilham Rohmatulloh](img/benner-2.png)
