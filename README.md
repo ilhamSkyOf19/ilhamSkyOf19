@@ -1,5 +1,16 @@
-# 💫 About Me:
-Saya adalah seorang Junior Fullstack Developer yang memiliki minat kuat dalam pengembangan aplikasi web modern dan efisien. Fokus utama saya saat ini adalah pada pengembangan menggunakan React untuk sisi frontend serta Node.js, Bun, dan Hono untuk backend.<br>Saya juga terbiasa membangun dan mengelola basis data menggunakan Prisma ORM dengan MySQL, yang membantu mempercepat proses pengembangan dan menjaga struktur data tetap konsisten. Dengan pendekatan clean code dan semangat belajar yang tinggi, saya selalu berusaha memahami arsitektur sistem dengan baik serta menerapkan praktik terbaik dalam pengembangan perangkat lunak.<br>Meskipun berada di level junior, saya memiliki pengalaman dalam membangun proyek dari sisi frontend hingga backend secara terintegrasi, serta terbiasa menggunakan version control (Git) dan bekerja dalam tim kolaboratif.
+# 👋 Selamat Datang!
+Halo! Saya Ilham Rohmatulloh, mahasiswa semester 6 jurusan S1 Ilmu Komputer yang sedang fokus mengembangkan keahlian sebagai Junior Fullstack Developer.
+
+Saya memiliki minat besar dalam membangun aplikasi web yang ringan, cepat, dan efisien. Di sisi frontend, saya menggunakan React dan Tailwind CSS, sedangkan untuk backend saya memanfaatkan Node.js, Bun, dan Hono. Untuk database, saya terbiasa dengan MySQL dan Prisma ORM.
+
+Saya senang mempelajari teknologi baru, terbiasa bekerja dengan Git, dan memiliki komitmen untuk terus berkembang serta berkontribusi dalam tim pengembangan.
+
+# 👋 Welcome!
+Hello! I'm Ilham Rohmatulloh, a 6th-semester undergraduate student majoring in Computer Science, currently focusing on developing my skills as a Junior Fullstack Developer.
+
+I have a strong interest in building web applications that are lightweight, fast, and efficient. On the frontend, I work with React and Tailwind CSS, while on the backend I utilize Node.js, Bun, and Hono. For databases, I’m familiar with MySQL and Prisma ORM.
+
+I'm passionate about learning new technologies, comfortable working with Git, and committed to continuous growth and contributing to development teams.
 
 
 ## 🌐 Socials:
