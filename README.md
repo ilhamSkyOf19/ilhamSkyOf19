@@ -1,12 +1,12 @@
 # 👋 Selamat Datang!
-Halo! Saya Ilham Rohmatulloh, mahasiswa semester 6 jurusan S1 Ilmu Komputer yang sedang fokus mengembangkan keahlian sebagai Junior Fullstack Developer.
+Halo! Saya Ilham Rohmatulloh, mahasiswa semester 8 jurusan S1 Ilmu Komputer yang sedang fokus mengembangkan keahlian sebagai Junior Fullstack Developer.
 
 Saya memiliki minat besar dalam membangun aplikasi web yang ringan, cepat, dan efisien. Di sisi frontend, saya menggunakan React dan Tailwind CSS, sedangkan untuk backend saya memanfaatkan Node.js, Bun, dan Hono. Untuk database, saya terbiasa dengan MySQL dan Prisma ORM.
 
 Saya senang mempelajari teknologi baru, terbiasa bekerja dengan Git, dan memiliki komitmen untuk terus berkembang serta berkontribusi dalam tim pengembangan.
 
 # 👋 Welcome!
-Hello! I'm Ilham Rohmatulloh, a 6th-semester undergraduate student majoring in Computer Science, currently focusing on developing my skills as a Junior Fullstack Developer.
+Hello! I'm Ilham Rohmatulloh, a 8th-semester undergraduate student majoring in Computer Science, currently focusing on developing my skills as a Junior Fullstack Developer.
 
 I have a strong interest in building web applications that are lightweight, fast, and efficient. On the frontend, I work with React and Tailwind CSS, while on the backend I utilize Node.js, Bun, and Hono. For databases, I’m familiar with MySQL and Prisma ORM.
 
